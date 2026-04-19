@@ -1,6 +1,6 @@
 
 ## Usage
-- **Accessing Images**: Browse the `certificates/` folder for project-related certificate logos and the `personal/` folder for personal photos.
+**Accessing Images**: Browse the `certificates/` folder for project-related certificate logos and the `personal/` folder for personal photos.
 - **Adding Images**: Place new images in the appropriate folder (`certificates/` or `personal/`) and update this README if needed.
 - **Viewing**: Images can be viewed directly in the repository or downloaded for use in presentations, portfolios, or other purposes.
 
